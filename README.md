@@ -32,7 +32,7 @@ I’m starting my journey as full-stack developer thanks to Nashville Software S
 -  I’m currently working on [Team Roster](https://github.com/ImadOttallah/io-INDIVIDUAL-ASSIGNMENT-Team-Roster)  
   
 
--  I’m currently learning REACT  
+-  I’m currently learning PYTHON  
   
 
 -  Fun fact: I love illustrating and writing games.  
