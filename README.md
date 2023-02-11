@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I’m starting my journey as full-stack developer thanks to Nashville Software School. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+I’m starting my journey as full-stack developer thanks to Nashville Software School. Being a full-stack developer allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
  I love designing systems that are light and efficient. I'm really in love with REACT, but am eager to learn so much more. I'm an avid table top role player and have written and illustrated several books. My current favorite TTRPG is Warlock!  
   
